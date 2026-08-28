@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
