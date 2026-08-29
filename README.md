@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PranavRasal/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
