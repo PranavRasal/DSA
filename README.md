@@ -18,6 +18,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
