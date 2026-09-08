@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
+| [3870-count-commas-in-range](https://github.com/PranavRasal/DSA/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
