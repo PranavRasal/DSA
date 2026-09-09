@@ -16,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 ## Hash Function
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
+| [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
