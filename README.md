@@ -194,4 +194,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/PranavRasal/DSA/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/PranavRasal/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
