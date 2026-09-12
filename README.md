@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PranavRasal/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
@@ -23,6 +25,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
