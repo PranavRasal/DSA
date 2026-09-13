@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/PranavRasal/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -29,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PranavRasal/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/PranavRasal/DSA/tree/master/0052-n-queens-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
