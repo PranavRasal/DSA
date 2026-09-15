@@ -78,6 +78,7 @@
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavRasal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3903-smallest-stable-index-i](https://github.com/PranavRasal/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
+| [3903-smallest-stable-index-i](https://github.com/PranavRasal/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
