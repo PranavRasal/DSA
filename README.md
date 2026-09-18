@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PranavRasal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
