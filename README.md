@@ -104,6 +104,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PranavRasal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
