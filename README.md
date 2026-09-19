@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PranavRasal/DSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
