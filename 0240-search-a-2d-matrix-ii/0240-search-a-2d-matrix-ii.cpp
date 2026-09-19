@@ -8,9 +8,9 @@ public:
                 if(matrix[i][j] == target){
                     return true ;
                 }
-                if(matrix[i][j] > target){
-                   break ;
-                }
+                // if(matrix[i][j] > target){
+                //    break ;
+                // }
             }
         }
         return false ;
