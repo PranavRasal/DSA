@@ -42,6 +42,7 @@
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -149,6 +150,7 @@
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PranavRasal/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
@@ -221,6 +223,7 @@
 | [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 ## Data Stream
 |  |
 | ------- |
