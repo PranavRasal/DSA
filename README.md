@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
@@ -273,6 +274,7 @@
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
 ## Tree
 |  |
 | ------- |
