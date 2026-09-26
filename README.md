@@ -243,6 +243,7 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/PranavRasal/DSA/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -280,11 +281,13 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/PranavRasal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PranavRasal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,4 +298,5 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/PranavRasal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
