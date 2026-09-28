@@ -245,6 +245,7 @@
 | ------- |
 | [0052-n-queens-ii](https://github.com/PranavRasal/DSA/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/PranavRasal/DSA/tree/master/0401-binary-watch) |
 ## Algorithm X
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/PranavRasal/DSA/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
