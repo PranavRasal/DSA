@@ -83,6 +83,7 @@
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PranavRasal/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PranavRasal/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PranavRasal/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0220-contains-duplicate-iii](https://github.com/PranavRasal/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
@@ -155,6 +156,7 @@
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/PranavRasal/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PranavRasal/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PranavRasal/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
