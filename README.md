@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
@@ -43,6 +44,7 @@
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
+| [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
