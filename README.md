@@ -13,6 +13,7 @@
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/PranavRasal/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -90,6 +93,7 @@
 | [0220-contains-duplicate-iii](https://github.com/PranavRasal/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
@@ -110,6 +114,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
@@ -266,6 +271,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/PranavRasal/DSA/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
