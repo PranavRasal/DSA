@@ -15,6 +15,7 @@
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
+| [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
@@ -116,6 +117,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -242,6 +244,7 @@
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Data Stream
 |  |
 | ------- |
