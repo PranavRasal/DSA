@@ -144,6 +144,7 @@
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/PranavRasal/DSA/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/PranavRasal/DSA/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/PranavRasal/DSA/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/PranavRasal/DSA/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
