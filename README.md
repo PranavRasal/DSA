@@ -53,6 +53,7 @@
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -181,6 +182,7 @@
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
@@ -348,4 +350,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
