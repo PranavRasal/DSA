@@ -237,6 +237,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/PranavRasal/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -291,6 +292,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/PranavRasal/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/PranavRasal/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/PranavRasal/DSA/tree/master/0401-binary-watch) |
