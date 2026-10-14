@@ -184,6 +184,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PranavRasal/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/PranavRasal/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -298,6 +299,7 @@
 | [0191-number-of-1-bits](https://github.com/PranavRasal/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PranavRasal/DSA/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/PranavRasal/DSA/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
