@@ -8,12 +8,12 @@ public:
         if(i == nums.size()){
             return false ;
         }
-        if(dp[sum][i] != -1){
-            return dp[sum][i] ;
+        if(dp[i][sum] != -1){
+            return dp[i][sum] ;
         }
         bool take = helper(nums , sum + nums[i] , i + 1 , target) ;
         bool notTake = helper(nums , sum  , i + 1 , target) ;
-        return dp[sum][i] = take || notTake ;
+        return dp[i][sum] = take || notTake ;
     }
     bool canPartition(vector<int>& nums) {
         sort(nums.begin() , nums.end()) ;
@@ -24,7 +24,7 @@ public:
         if(sum% 2 != 0 || (sum / 2) < nums[nums.size() - 1]){
             return false ;
         }
-        dp.assign(sum , vector<int>(nums.size() , - 1)) ;
+        dp.assign( nums.size(), vector<int>(sum , - 1)) ;
         return helper( nums , 0 , 0 , sum/2) ;
     }
 };
