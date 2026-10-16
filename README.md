@@ -26,6 +26,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
@@ -96,6 +97,7 @@
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/PranavRasal/DSA/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PranavRasal/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PranavRasal/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -212,6 +214,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
