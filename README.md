@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
@@ -27,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
@@ -267,6 +269,7 @@
 | [0016-3sum-closest](https://github.com/PranavRasal/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
+| [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
@@ -384,4 +387,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
