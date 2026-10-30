@@ -341,6 +341,7 @@
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/PranavRasal/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Bracket Sequences
 |  |
 | ------- |
