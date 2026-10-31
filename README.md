@@ -32,6 +32,7 @@
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
@@ -54,6 +55,7 @@
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
@@ -87,6 +89,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
