@@ -59,6 +59,7 @@
 | [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavRasal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -115,6 +117,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0605-can-place-flowers](https://github.com/PranavRasal/DSA/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
@@ -199,6 +203,7 @@
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
@@ -356,6 +361,7 @@
 | [0113-path-sum-ii](https://github.com/PranavRasal/DSA/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 ## Breadth-First Search
 |  |
 | ------- |
