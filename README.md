@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PranavRasal/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
@@ -173,6 +174,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
@@ -373,6 +376,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Number Theory
 |  |
