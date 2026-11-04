@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/PranavRasal/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/PranavRasal/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/PranavRasal/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/PranavRasal/DSA/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/PranavRasal/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
@@ -227,6 +229,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PranavRasal/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
