@@ -53,6 +53,7 @@
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/PranavRasal/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/PranavRasal/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
