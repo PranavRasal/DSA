@@ -51,6 +51,7 @@
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PranavRasal/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/PranavRasal/DSA/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
@@ -108,6 +109,7 @@
 | [0048-rotate-image](https://github.com/PranavRasal/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PranavRasal/DSA/tree/master/0118-pascals-triangle) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
