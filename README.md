@@ -18,6 +18,7 @@
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/PranavRasal/DSA/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -122,6 +123,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0396-rotate-function](https://github.com/PranavRasal/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
@@ -210,6 +212,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/PranavRasal/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/PranavRasal/DSA/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
