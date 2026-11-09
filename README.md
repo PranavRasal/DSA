@@ -170,6 +170,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/PranavRasal/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PranavRasal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/PranavRasal/DSA/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/PranavRasal/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
