@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/PranavRasal/DSA/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/PranavRasal/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -65,6 +66,7 @@
 | [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/PranavRasal/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/PranavRasal/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
@@ -269,6 +271,7 @@
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PranavRasal/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
