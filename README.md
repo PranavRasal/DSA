@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
@@ -59,6 +60,7 @@
 | [0072-edit-distance](https://github.com/PranavRasal/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/PranavRasal/DSA/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
@@ -397,6 +399,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/PranavRasal/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/PranavRasal/DSA/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PranavRasal/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -438,4 +441,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
