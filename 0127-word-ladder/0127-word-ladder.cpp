@@ -31,9 +31,7 @@ public:
         queue<string> qu;
     queue<string> sto;
 
-    if(find(wordList.begin(), wordList.end(), endWord) == wordList.end()){
-        return 0;
-    }
+    
 
     for(int i = 0; i < wordList.size(); i++){
         sto.push(wordList[i]);
