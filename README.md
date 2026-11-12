@@ -41,6 +41,7 @@
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -72,6 +73,7 @@
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -140,6 +142,7 @@
 | [0605-can-place-flowers](https://github.com/PranavRasal/DSA/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
@@ -404,6 +407,7 @@
 | [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PranavRasal/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 ## Binary Tree
 |  |
 | ------- |
@@ -447,4 +451,5 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
