@@ -17,6 +17,7 @@
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavRasal/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/PranavRasal/DSA/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/PranavRasal/DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/PranavRasal/DSA/tree/master/0412-fizz-buzz) |
@@ -245,10 +246,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -456,4 +459,16 @@
 | ------- |
 | [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
