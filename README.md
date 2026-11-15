@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/PranavRasal/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/PranavRasal/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/PranavRasal/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
