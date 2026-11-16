@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/PranavRasal/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
@@ -34,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PranavRasal/DSA/tree/master/0242-valid-anagram) |
@@ -134,6 +136,7 @@
 | [0119-pascals-triangle-ii](https://github.com/PranavRasal/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PranavRasal/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/PranavRasal/DSA/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 | [0220-contains-duplicate-iii](https://github.com/PranavRasal/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -305,6 +308,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -472,4 +476,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
