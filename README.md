@@ -171,6 +171,7 @@
 | [0069-sqrtx](https://github.com/PranavRasal/DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/PranavRasal/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -178,6 +179,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/PranavRasal/DSA/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
