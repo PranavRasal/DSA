@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/PranavRasal/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavRasal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/PranavRasal/DSA/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/PranavRasal/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/PranavRasal/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PranavRasal/DSA/tree/master/0205-isomorphic-strings) |
@@ -194,11 +195,13 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PranavRasal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/PranavRasal/DSA/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PranavRasal/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/PranavRasal/DSA/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/PranavRasal/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PranavRasal/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
@@ -489,4 +492,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PranavRasal/DSA/tree/master/0149-max-points-on-a-line) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/PranavRasal/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
