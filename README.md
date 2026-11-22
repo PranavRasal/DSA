@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/PranavRasal/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/PranavRasal/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/PranavRasal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
@@ -78,6 +79,7 @@
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/PranavRasal/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/PranavRasal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PranavRasal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/PranavRasal/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0424-longest-repeating-character-replacement](https://github.com/PranavRasal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
