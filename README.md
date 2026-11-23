@@ -158,6 +158,7 @@
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0605-can-place-flowers](https://github.com/PranavRasal/DSA/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/PranavRasal/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -287,6 +288,7 @@
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
@@ -428,6 +430,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PranavRasal/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
+| [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -440,6 +443,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PranavRasal/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/PranavRasal/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 ## Binary Tree
 |  |
@@ -519,4 +523,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PranavRasal/DSA/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
