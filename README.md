@@ -81,6 +81,7 @@
 | [0415-add-strings](https://github.com/PranavRasal/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/PranavRasal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
+| [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0821-shortest-distance-to-a-character](https://github.com/PranavRasal/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -115,6 +116,7 @@
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/PranavRasal/DSA/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/PranavRasal/DSA/tree/master/0846-hand-of-straights) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PranavRasal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -228,6 +230,7 @@
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0895-maximum-frequency-stack](https://github.com/PranavRasal/DSA/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/PranavRasal/DSA/tree/master/0901-online-stock-span) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -252,6 +255,7 @@
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
+| [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
@@ -451,6 +455,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PranavRasal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Number Theory
 |  |
