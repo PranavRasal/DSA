@@ -161,6 +161,7 @@
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/PranavRasal/DSA/tree/master/0706-design-hashmap) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 | [0821-shortest-distance-to-a-character](https://github.com/PranavRasal/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0846-hand-of-straights](https://github.com/PranavRasal/DSA/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
@@ -186,6 +187,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/PranavRasal/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/PranavRasal/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 | [1095-find-in-mountain-array](https://github.com/PranavRasal/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PranavRasal/DSA/tree/master/0292-nim-game) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/PranavRasal/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -289,6 +292,7 @@
 | [0221-maximal-square](https://github.com/PranavRasal/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PranavRasal/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/PranavRasal/DSA/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
@@ -300,6 +304,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavRasal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -431,6 +436,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -445,6 +451,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PranavRasal/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -527,4 +534,9 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
