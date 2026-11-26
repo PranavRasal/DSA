@@ -62,6 +62,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PranavRasal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/PranavRasal/DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/PranavRasal/DSA/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/PranavRasal/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PranavRasal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/PranavRasal/DSA/tree/master/0068-text-justification) |
@@ -112,6 +113,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/PranavRasal/DSA/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/PranavRasal/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/PranavRasal/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/PranavRasal/DSA/tree/master/0410-split-array-largest-sum) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/PranavRasal/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/PranavRasal/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/PranavRasal/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/PranavRasal/DSA/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/PranavRasal/DSA/tree/master/0097-interleaving-string) |
@@ -410,6 +413,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PranavRasal/DSA/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/PranavRasal/DSA/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/PranavRasal/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PranavRasal/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PranavRasal/DSA/tree/master/0234-palindrome-linked-list) |
