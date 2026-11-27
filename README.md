@@ -262,6 +262,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/PranavRasal/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/PranavRasal/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/PranavRasal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/PranavRasal/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PranavRasal/DSA/tree/master/1143-longest-common-subsequence) |
@@ -308,6 +309,7 @@
 | [0295-find-median-from-data-stream](https://github.com/PranavRasal/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/PranavRasal/DSA/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/PranavRasal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavRasal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
@@ -441,6 +443,7 @@
 | [0472-concatenated-words](https://github.com/PranavRasal/DSA/tree/master/0472-concatenated-words) |
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 | [0695-max-area-of-island](https://github.com/PranavRasal/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/PranavRasal/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -530,6 +534,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/PranavRasal/DSA/tree/master/0133-clone-graph) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -543,4 +548,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/PranavRasal/DSA/tree/master/0778-swim-in-rising-water) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PranavRasal/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
